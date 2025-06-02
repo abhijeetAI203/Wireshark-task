@@ -30,4 +30,4 @@ Capture live packets and identify HTTP, DNS, and TCP protocols using Wireshark.
 
 ### 3. *HTTP (Hypertext Transfer Protocol)*
 - Captured from visiting http://neverssl.com.
-- Example GET request:****
+- Example GET request:200 ok
