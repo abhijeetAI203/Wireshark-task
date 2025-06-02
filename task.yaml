@@ -1,0 +1,19 @@
+---
+
+## 💡 Key Observations
+- ICMP packets (from ping) also appeared during testing.
+- Traffic was captured from the correct interface: any.
+- HTTP traffic did not show until http://neverssl.com was used.
+
+---
+
+## 📁 Files Included
+- task5_capture.pcap — captured packet data
+- README.md — this report
+
+---
+
+## 🧠 Learnings
+- How to capture live traffic using Wireshark.
+- How to apply protocol filters like http, dns, tcp.
+- How different protocols work together in networking.
